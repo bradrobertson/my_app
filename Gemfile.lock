@@ -1,0 +1,16 @@
+GEM
+  remote: https://gem.fury.io/bradrobertson/
+  specs:
+    my_component (0.1.1)
+      my_util (= 0.1.0)
+    my_util (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  my_component (~> 0.1)!
+  my_util (~> 0.1)!
+
+BUNDLED WITH
+   1.17.3
