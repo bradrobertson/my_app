@@ -10,7 +10,6 @@ PLATFORMS
 
 DEPENDENCIES
   my_component (~> 0.1)!
-  my_util (~> 0.1)!
 
 BUNDLED WITH
    1.17.3
